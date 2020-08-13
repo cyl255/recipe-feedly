@@ -1,0 +1,15 @@
+{
+  "id": "feedly",
+  "name": "Feedly",
+  "version": "1.0.0",
+  "description": "Newsfeed",
+  "main": "index.js",
+  "author": "cyl255",
+  "license": "MIT",
+  "repository": "https://github.com/cyl255/recipe-feedly",
+  "config": {
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://feedly.com/i/my"
+  }
+}
